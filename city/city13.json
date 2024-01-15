@@ -1,0 +1,106 @@
+[
+    {
+        "city_id": "18",
+        "province_id": "13",
+        "province": "Kalimantan Selatan",
+        "type": "Kabupaten",
+        "city_name": "Balangan",
+        "postal_code": "71611"
+    },
+    {
+        "city_id": "33",
+        "province_id": "13",
+        "province": "Kalimantan Selatan",
+        "type": "Kabupaten",
+        "city_name": "Banjar",
+        "postal_code": "70619"
+    },
+    {
+        "city_id": "35",
+        "province_id": "13",
+        "province": "Kalimantan Selatan",
+        "type": "Kota",
+        "city_name": "Banjarbaru",
+        "postal_code": "70712"
+    },
+    {
+        "city_id": "36",
+        "province_id": "13",
+        "province": "Kalimantan Selatan",
+        "type": "Kota",
+        "city_name": "Banjarmasin",
+        "postal_code": "70117"
+    },
+    {
+        "city_id": "43",
+        "province_id": "13",
+        "province": "Kalimantan Selatan",
+        "type": "Kabupaten",
+        "city_name": "Barito Kuala",
+        "postal_code": "70511"
+    },
+    {
+        "city_id": "143",
+        "province_id": "13",
+        "province": "Kalimantan Selatan",
+        "type": "Kabupaten",
+        "city_name": "Hulu Sungai Selatan",
+        "postal_code": "71212"
+    },
+    {
+        "city_id": "144",
+        "province_id": "13",
+        "province": "Kalimantan Selatan",
+        "type": "Kabupaten",
+        "city_name": "Hulu Sungai Tengah",
+        "postal_code": "71313"
+    },
+    {
+        "city_id": "145",
+        "province_id": "13",
+        "province": "Kalimantan Selatan",
+        "type": "Kabupaten",
+        "city_name": "Hulu Sungai Utara",
+        "postal_code": "71419"
+    },
+    {
+        "city_id": "203",
+        "province_id": "13",
+        "province": "Kalimantan Selatan",
+        "type": "Kabupaten",
+        "city_name": "Kotabaru",
+        "postal_code": "72119"
+    },
+    {
+        "city_id": "446",
+        "province_id": "13",
+        "province": "Kalimantan Selatan",
+        "type": "Kabupaten",
+        "city_name": "Tabalong",
+        "postal_code": "71513"
+    },
+    {
+        "city_id": "452",
+        "province_id": "13",
+        "province": "Kalimantan Selatan",
+        "type": "Kabupaten",
+        "city_name": "Tanah Bumbu",
+        "postal_code": "72211"
+    },
+    {
+        "city_id": "454",
+        "province_id": "13",
+        "province": "Kalimantan Selatan",
+        "type": "Kabupaten",
+        "city_name": "Tanah Laut",
+        "postal_code": "70811"
+    },
+    {
+        "city_id": "466",
+        "province_id": "13",
+        "province": "Kalimantan Selatan",
+        "type": "Kabupaten",
+        "city_name": "Tapin",
+        "postal_code": "71119"
+    }
+]

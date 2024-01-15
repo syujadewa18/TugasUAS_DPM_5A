@@ -1,0 +1,50 @@
+[
+    {
+        "city_id": "77",
+        "province_id": "7",
+        "province": "Gorontalo",
+        "type": "Kabupaten",
+        "city_name": "Boalemo",
+        "postal_code": "96319"
+    },
+    {
+        "city_id": "88",
+        "province_id": "7",
+        "province": "Gorontalo",
+        "type": "Kabupaten",
+        "city_name": "Bone Bolango",
+        "postal_code": "96511"
+    },
+    {
+        "city_id": "129",
+        "province_id": "7",
+        "province": "Gorontalo",
+        "type": "Kabupaten",
+        "city_name": "Gorontalo",
+        "postal_code": "96218"
+    },
+    {
+        "city_id": "130",
+        "province_id": "7",
+        "province": "Gorontalo",
+        "type": "Kota",
+        "city_name": "Gorontalo",
+        "postal_code": "96115"
+    },
+    {
+        "city_id": "131",
+        "province_id": "7",
+        "province": "Gorontalo",
+        "type": "Kabupaten",
+        "city_name": "Gorontalo Utara",
+        "postal_code": "96611"
+    },
+    {
+        "city_id": "361",
+        "province_id": "7",
+        "province": "Gorontalo",
+        "type": "Kabupaten",
+        "city_name": "Pohuwato",
+        "postal_code": "96419"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "city_id": "54",
+        "province_id": "9",
+        "province": "Jawa Barat",
+        "type": "Kabupaten",
+        "city_name": "Bekasi",
+        "postal_code": "17837"
+    },
+    {
+        "city_id": "55",
+        "province_id": "9",
+        "province": "Jawa Barat",
+        "type": "Kota",
+        "city_name": "Bekasi",
+        "postal_code": "17121"
+    },
+    {
+        "city_id": "78",
+        "province_id": "9",
+        "province": "Jawa Barat",
+        "type": "Kabupaten",
+        "city_name": "Bogor",
+        "postal_code": "16911"
+    },
+    {
+        "city_id": "79",
+        "province_id": "9",
+        "province": "Jawa Barat",
+        "type": "Kota",
+        "city_name": "Bogor",
+        "postal_code": "16119"
+    },
+    {
+        "city_id": "115",
+        "province_id": "9",
+        "province": "Jawa Barat",
+        "type": "Kota",
+        "city_name": "Depok",
+        "postal_code": "16416"
+    }
+]

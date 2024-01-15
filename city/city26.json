@@ -1,0 +1,98 @@
+[
+    {
+        "city_id": "60",
+        "province_id": "26",
+        "province": "Riau",
+        "type": "Kabupaten",
+        "city_name": "Bengkalis",
+        "postal_code": "28719"
+    },
+    {
+        "city_id": "120",
+        "province_id": "26",
+        "province": "Riau",
+        "type": "Kota",
+        "city_name": "Dumai",
+        "postal_code": "28811"
+    },
+    {
+        "city_id": "147",
+        "province_id": "26",
+        "province": "Riau",
+        "type": "Kabupaten",
+        "city_name": "Indragiri Hilir",
+        "postal_code": "29212"
+    },
+    {
+        "city_id": "148",
+        "province_id": "26",
+        "province": "Riau",
+        "type": "Kabupaten",
+        "city_name": "Indragiri Hulu",
+        "postal_code": "29319"
+    },
+    {
+        "city_id": "166",
+        "province_id": "26",
+        "province": "Riau",
+        "type": "Kabupaten",
+        "city_name": "Kampar",
+        "postal_code": "28411"
+    },
+    {
+        "city_id": "187",
+        "province_id": "26",
+        "province": "Riau",
+        "type": "Kabupaten",
+        "city_name": "Kepulauan Meranti",
+        "postal_code": "28791"
+    },
+    {
+        "city_id": "207",
+        "province_id": "26",
+        "province": "Riau",
+        "type": "Kabupaten",
+        "city_name": "Kuantan Singingi",
+        "postal_code": "29519"
+    },
+    {
+        "city_id": "350",
+        "province_id": "26",
+        "province": "Riau",
+        "type": "Kota",
+        "city_name": "Pekanbaru",
+        "postal_code": "28112"
+    },
+    {
+        "city_id": "351",
+        "province_id": "26",
+        "province": "Riau",
+        "type": "Kabupaten",
+        "city_name": "Pelalawan",
+        "postal_code": "28311"
+    },
+    {
+        "city_id": "381",
+        "province_id": "26",
+        "province": "Riau",
+        "type": "Kabupaten",
+        "city_name": "Rokan Hilir",
+        "postal_code": "28992"
+    },
+    {
+        "city_id": "382",
+        "province_id": "26",
+        "province": "Riau",
+        "type": "Kabupaten",
+        "city_name": "Rokan Hulu",
+        "postal_code": "28511"
+    },
+    {
+        "city_id": "406",
+        "province_id": "26",
+        "province": "Riau",
+        "type": "Kabupaten",
+        "city_name": "Siak",
+        "postal_code": "28623"
+    }
+]

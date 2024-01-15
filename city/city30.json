@@ -1,0 +1,98 @@
+[
+    {
+        "city_id": "53",
+        "province_id": "30",
+        "province": "Sulawesi Tenggara",
+        "type": "Kota",
+        "city_name": "Bau-Bau",
+        "postal_code": "93719"
+    },
+    {
+        "city_id": "85",
+        "province_id": "30",
+        "province": "Sulawesi Tenggara",
+        "type": "Kabupaten",
+        "city_name": "Bombana",
+        "postal_code": "93771"
+    },
+    {
+        "city_id": "101",
+        "province_id": "30",
+        "province": "Sulawesi Tenggara",
+        "type": "Kabupaten",
+        "city_name": "Buton",
+        "postal_code": "93754"
+    },
+    {
+        "city_id": "102",
+        "province_id": "30",
+        "province": "Sulawesi Tenggara",
+        "type": "Kabupaten",
+        "city_name": "Buton Utara",
+        "postal_code": "93745"
+    },
+    {
+        "city_id": "182",
+        "province_id": "30",
+        "province": "Sulawesi Tenggara",
+        "type": "Kota",
+        "city_name": "Kendari",
+        "postal_code": "93126"
+    },
+    {
+        "city_id": "198",
+        "province_id": "30",
+        "province": "Sulawesi Tenggara",
+        "type": "Kabupaten",
+        "city_name": "Kolaka",
+        "postal_code": "93511"
+    },
+    {
+        "city_id": "199",
+        "province_id": "30",
+        "province": "Sulawesi Tenggara",
+        "type": "Kabupaten",
+        "city_name": "Kolaka Utara",
+        "postal_code": "93911"
+    },
+    {
+        "city_id": "200",
+        "province_id": "30",
+        "province": "Sulawesi Tenggara",
+        "type": "Kabupaten",
+        "city_name": "Konawe",
+        "postal_code": "93411"
+    },
+    {
+        "city_id": "201",
+        "province_id": "30",
+        "province": "Sulawesi Tenggara",
+        "type": "Kabupaten",
+        "city_name": "Konawe Selatan",
+        "postal_code": "93811"
+    },
+    {
+        "city_id": "202",
+        "province_id": "30",
+        "province": "Sulawesi Tenggara",
+        "type": "Kabupaten",
+        "city_name": "Konawe Utara",
+        "postal_code": "93311"
+    },
+    {
+        "city_id": "295",
+        "province_id": "30",
+        "province": "Sulawesi Tenggara",
+        "type": "Kabupaten",
+        "city_name": "Muna",
+        "postal_code": "93611"
+    },
+    {
+        "city_id": "494",
+        "province_id": "30",
+        "province": "Sulawesi Tenggara",
+        "type": "Kabupaten",
+        "city_name": "Wakatobi",
+        "postal_code": "93791"
+    }
+]

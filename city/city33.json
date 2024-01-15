@@ -1,0 +1,122 @@
+[
+    {
+        "city_id": "40",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kabupaten",
+        "city_name": "Banyuasin",
+        "postal_code": "30911"
+    },
+    {
+        "city_id": "121",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kabupaten",
+        "city_name": "Empat Lawang",
+        "postal_code": "31811"
+    },
+    {
+        "city_id": "220",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kabupaten",
+        "city_name": "Lahat",
+        "postal_code": "31419"
+    },
+    {
+        "city_id": "242",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kota",
+        "city_name": "Lubuk Linggau",
+        "postal_code": "31614"
+    },
+    {
+        "city_id": "292",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kabupaten",
+        "city_name": "Muara Enim",
+        "postal_code": "31315"
+    },
+    {
+        "city_id": "297",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kabupaten",
+        "city_name": "Musi Banyuasin",
+        "postal_code": "30719"
+    },
+    {
+        "city_id": "298",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kabupaten",
+        "city_name": "Musi Rawas",
+        "postal_code": "31661"
+    },
+    {
+        "city_id": "312",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kabupaten",
+        "city_name": "Ogan Ilir",
+        "postal_code": "30811"
+    },
+    {
+        "city_id": "313",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kabupaten",
+        "city_name": "Ogan Komering Ilir",
+        "postal_code": "30618"
+    },
+    {
+        "city_id": "314",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kabupaten",
+        "city_name": "Ogan Komering Ulu",
+        "postal_code": "32112"
+    },
+    {
+        "city_id": "315",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kabupaten",
+        "city_name": "Ogan Komering Ulu Selatan",
+        "postal_code": "32211"
+    },
+    {
+        "city_id": "316",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kabupaten",
+        "city_name": "Ogan Komering Ulu Timur",
+        "postal_code": "32312"
+    },
+    {
+        "city_id": "324",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kota",
+        "city_name": "Pagar Alam",
+        "postal_code": "31512"
+    },
+    {
+        "city_id": "327",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kota",
+        "city_name": "Palembang",
+        "postal_code": "30111"
+    },
+    {
+        "city_id": "367",
+        "province_id": "33",
+        "province": "Sumatera Selatan",
+        "type": "Kota",
+        "city_name": "Prabumulih",
+        "postal_code": "31121"
+    }
+]

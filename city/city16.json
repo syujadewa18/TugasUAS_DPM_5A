@@ -1,0 +1,42 @@
+[
+    {
+        "city_id": "96",
+        "province_id": "16",
+        "province": "Kalimantan Utara",
+        "type": "Kabupaten",
+        "city_name": "Bulungan (Bulongan)",
+        "postal_code": "77211"
+    },
+    {
+        "city_id": "257",
+        "province_id": "16",
+        "province": "Kalimantan Utara",
+        "type": "Kabupaten",
+        "city_name": "Malinau",
+        "postal_code": "77511"
+    },
+    {
+        "city_id": "311",
+        "province_id": "16",
+        "province": "Kalimantan Utara",
+        "type": "Kabupaten",
+        "city_name": "Nunukan",
+        "postal_code": "77421"
+    },
+    {
+        "city_id": "450",
+        "province_id": "16",
+        "province": "Kalimantan Utara",
+        "type": "Kabupaten",
+        "city_name": "Tana Tidung",
+        "postal_code": "77611"
+    },
+    {
+        "city_id": "467",
+        "province_id": "16",
+        "province": "Kalimantan Utara",
+        "type": "Kota",
+        "city_name": "Tarakan",
+        "postal_code": "77114"
+    }
+]

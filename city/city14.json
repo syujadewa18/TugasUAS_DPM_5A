@@ -1,0 +1,114 @@
+[
+    {
+        "city_id": "44",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kabupaten",
+        "city_name": "Barito Selatan",
+        "postal_code": "73711"
+    },
+    {
+        "city_id": "45",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kabupaten",
+        "city_name": "Barito Timur",
+        "postal_code": "73671"
+    },
+    {
+        "city_id": "46",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kabupaten",
+        "city_name": "Barito Utara",
+        "postal_code": "73881"
+    },
+    {
+        "city_id": "136",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kabupaten",
+        "city_name": "Gunung Mas",
+        "postal_code": "74511"
+    },
+    {
+        "city_id": "167",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kabupaten",
+        "city_name": "Kapuas",
+        "postal_code": "73583"
+    },
+    {
+        "city_id": "174",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kabupaten",
+        "city_name": "Katingan",
+        "postal_code": "74411"
+    },
+    {
+        "city_id": "205",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kabupaten",
+        "city_name": "Kotawaringin Barat",
+        "postal_code": "74119"
+    },
+    {
+        "city_id": "206",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kabupaten",
+        "city_name": "Kotawaringin Timur",
+        "postal_code": "74364"
+    },
+    {
+        "city_id": "221",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kabupaten",
+        "city_name": "Lamandau",
+        "postal_code": "74611"
+    },
+    {
+        "city_id": "296",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kabupaten",
+        "city_name": "Murung Raya",
+        "postal_code": "73911"
+    },
+    {
+        "city_id": "326",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kota",
+        "city_name": "Palangka Raya",
+        "postal_code": "73112"
+    },
+    {
+        "city_id": "371",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kabupaten",
+        "city_name": "Pulang Pisau",
+        "postal_code": "74811"
+    },
+    {
+        "city_id": "405",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kabupaten",
+        "city_name": "Seruyan",
+        "postal_code": "74211"
+    },
+    {
+        "city_id": "432",
+        "province_id": "14",
+        "province": "Kalimantan Tengah",
+        "type": "Kabupaten",
+        "city_name": "Sukamara",
+        "postal_code": "74712"
+    }
+]

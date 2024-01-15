@@ -1,0 +1,186 @@
+[
+    {
+        "city_id": "1",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Aceh Barat",
+        "postal_code": "23681"
+    },
+    {
+        "city_id": "2",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Aceh Barat Daya",
+        "postal_code": "23764"
+    },
+    {
+        "city_id": "3",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Aceh Besar",
+        "postal_code": "23951"
+    },
+    {
+        "city_id": "4",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Aceh Jaya",
+        "postal_code": "23654"
+    },
+    {
+        "city_id": "5",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Aceh Selatan",
+        "postal_code": "23719"
+    },
+    {
+        "city_id": "6",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Aceh Singkil",
+        "postal_code": "24785"
+    },
+    {
+        "city_id": "7",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Aceh Tamiang",
+        "postal_code": "24476"
+    },
+    {
+        "city_id": "8",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Aceh Tengah",
+        "postal_code": "24511"
+    },
+    {
+        "city_id": "9",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Aceh Tenggara",
+        "postal_code": "24611"
+    },
+    {
+        "city_id": "10",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Aceh Timur",
+        "postal_code": "24454"
+    },
+    {
+        "city_id": "11",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Aceh Utara",
+        "postal_code": "24382"
+    },
+    {
+        "city_id": "20",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kota",
+        "city_name": "Banda Aceh",
+        "postal_code": "23238"
+    },
+    {
+        "city_id": "59",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Bener Meriah",
+        "postal_code": "24581"
+    },
+    {
+        "city_id": "72",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Bireuen",
+        "postal_code": "24219"
+    },
+    {
+        "city_id": "127",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Gayo Lues",
+        "postal_code": "24653"
+    },
+    {
+        "city_id": "230",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kota",
+        "city_name": "Langsa",
+        "postal_code": "24412"
+    },
+    {
+        "city_id": "235",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kota",
+        "city_name": "Lhokseumawe",
+        "postal_code": "24352"
+    },
+    {
+        "city_id": "300",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Nagan Raya",
+        "postal_code": "23674"
+    },
+    {
+        "city_id": "358",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Pidie",
+        "postal_code": "24116"
+    },
+    {
+        "city_id": "359",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Pidie Jaya",
+        "postal_code": "24186"
+    },
+    {
+        "city_id": "384",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kota",
+        "city_name": "Sabang",
+        "postal_code": "23512"
+    },
+    {
+        "city_id": "414",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kabupaten",
+        "city_name": "Simeulue",
+        "postal_code": "23891"
+    },
+    {
+        "city_id": "429",
+        "province_id": "21",
+        "province": "Nanggroe Aceh Darussalam (NAD)",
+        "type": "Kota",
+        "city_name": "Subulussalam",
+        "postal_code": "24882"
+    }
+]

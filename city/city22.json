@@ -1,0 +1,82 @@
+[
+    {
+        "city_id": "68",
+        "province_id": "22",
+        "province": "Nusa Tenggara Barat (NTB)",
+        "type": "Kabupaten",
+        "city_name": "Bima",
+        "postal_code": "84171"
+    },
+    {
+        "city_id": "69",
+        "province_id": "22",
+        "province": "Nusa Tenggara Barat (NTB)",
+        "type": "Kota",
+        "city_name": "Bima",
+        "postal_code": "84139"
+    },
+    {
+        "city_id": "118",
+        "province_id": "22",
+        "province": "Nusa Tenggara Barat (NTB)",
+        "type": "Kabupaten",
+        "city_name": "Dompu",
+        "postal_code": "84217"
+    },
+    {
+        "city_id": "238",
+        "province_id": "22",
+        "province": "Nusa Tenggara Barat (NTB)",
+        "type": "Kabupaten",
+        "city_name": "Lombok Barat",
+        "postal_code": "83311"
+    },
+    {
+        "city_id": "239",
+        "province_id": "22",
+        "province": "Nusa Tenggara Barat (NTB)",
+        "type": "Kabupaten",
+        "city_name": "Lombok Tengah",
+        "postal_code": "83511"
+    },
+    {
+        "city_id": "240",
+        "province_id": "22",
+        "province": "Nusa Tenggara Barat (NTB)",
+        "type": "Kabupaten",
+        "city_name": "Lombok Timur",
+        "postal_code": "83612"
+    },
+    {
+        "city_id": "241",
+        "province_id": "22",
+        "province": "Nusa Tenggara Barat (NTB)",
+        "type": "Kabupaten",
+        "city_name": "Lombok Utara",
+        "postal_code": "83711"
+    },
+    {
+        "city_id": "276",
+        "province_id": "22",
+        "province": "Nusa Tenggara Barat (NTB)",
+        "type": "Kota",
+        "city_name": "Mataram",
+        "postal_code": "83131"
+    },
+    {
+        "city_id": "438",
+        "province_id": "22",
+        "province": "Nusa Tenggara Barat (NTB)",
+        "type": "Kabupaten",
+        "city_name": "Sumbawa",
+        "postal_code": "84315"
+    },
+    {
+        "city_id": "439",
+        "province_id": "22",
+        "province": "Nusa Tenggara Barat (NTB)",
+        "type": "Kabupaten",
+        "city_name": "Sumbawa Barat",
+        "postal_code": "84419"
+    }
+]

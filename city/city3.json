@@ -1,0 +1,26 @@
+[
+    {
+        "city_id": "455",
+        "province_id": "3",
+        "province": "Banten",
+        "type": "Kabupaten",
+        "city_name": "Tangerang",
+        "postal_code": "15914"
+    },
+    {
+        "city_id": "456",
+        "province_id": "3",
+        "province": "Banten",
+        "type": "Kota",
+        "city_name": "Tangerang",
+        "postal_code": "15111"
+    },
+    {
+        "city_id": "457",
+        "province_id": "3",
+        "province": "Banten",
+        "type": "Kota",
+        "city_name": "Tangerang Selatan",
+        "postal_code": "15435"
+    }
+]

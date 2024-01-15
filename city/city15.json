@@ -1,0 +1,74 @@
+[
+    {
+        "city_id": "19",
+        "province_id": "15",
+        "province": "Kalimantan Timur",
+        "type": "Kota",
+        "city_name": "Balikpapan",
+        "postal_code": "76111"
+    },
+    {
+        "city_id": "66",
+        "province_id": "15",
+        "province": "Kalimantan Timur",
+        "type": "Kabupaten",
+        "city_name": "Berau",
+        "postal_code": "77311"
+    },
+    {
+        "city_id": "89",
+        "province_id": "15",
+        "province": "Kalimantan Timur",
+        "type": "Kota",
+        "city_name": "Bontang",
+        "postal_code": "75313"
+    },
+    {
+        "city_id": "214",
+        "province_id": "15",
+        "province": "Kalimantan Timur",
+        "type": "Kabupaten",
+        "city_name": "Kutai Barat",
+        "postal_code": "75711"
+    },
+    {
+        "city_id": "215",
+        "province_id": "15",
+        "province": "Kalimantan Timur",
+        "type": "Kabupaten",
+        "city_name": "Kutai Kartanegara",
+        "postal_code": "75511"
+    },
+    {
+        "city_id": "216",
+        "province_id": "15",
+        "province": "Kalimantan Timur",
+        "type": "Kabupaten",
+        "city_name": "Kutai Timur",
+        "postal_code": "75611"
+    },
+    {
+        "city_id": "341",
+        "province_id": "15",
+        "province": "Kalimantan Timur",
+        "type": "Kabupaten",
+        "city_name": "Paser",
+        "postal_code": "76211"
+    },
+    {
+        "city_id": "354",
+        "province_id": "15",
+        "province": "Kalimantan Timur",
+        "type": "Kabupaten",
+        "city_name": "Penajam Paser Utara",
+        "postal_code": "76311"
+    },
+    {
+        "city_id": "387",
+        "province_id": "15",
+        "province": "Kalimantan Timur",
+        "type": "Kota",
+        "city_name": "Samarinda",
+        "postal_code": "75133"
+    }
+]

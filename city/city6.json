@@ -1,0 +1,42 @@
+[
+    {
+        "city_id": "151",
+        "province_id": "6",
+        "province": "DKI Jakarta",
+        "type": "Kota",
+        "city_name": "Jakarta Barat",
+        "postal_code": "11220"
+    },
+    {
+        "city_id": "152",
+        "province_id": "6",
+        "province": "DKI Jakarta",
+        "type": "Kota",
+        "city_name": "Jakarta Pusat",
+        "postal_code": "10540"
+    },
+    {
+        "city_id": "153",
+        "province_id": "6",
+        "province": "DKI Jakarta",
+        "type": "Kota",
+        "city_name": "Jakarta Selatan",
+        "postal_code": "12230"
+    },
+    {
+        "city_id": "154",
+        "province_id": "6",
+        "province": "DKI Jakarta",
+        "type": "Kota",
+        "city_name": "Jakarta Timur",
+        "postal_code": "13330"
+    },
+    {
+        "city_id": "155",
+        "province_id": "6",
+        "province": "DKI Jakarta",
+        "type": "Kota",
+        "city_name": "Jakarta Utara",
+        "postal_code": "14140"
+    }
+]

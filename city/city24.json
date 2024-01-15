@@ -1,0 +1,234 @@
+[
+    {
+        "city_id": "16",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Asmat",
+        "postal_code": "99777"
+    },
+    {
+        "city_id": "67",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Biak Numfor",
+        "postal_code": "98119"
+    },
+    {
+        "city_id": "90",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Boven Digoel",
+        "postal_code": "99662"
+    },
+    {
+        "city_id": "111",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Deiyai (Deliyai)",
+        "postal_code": "98784"
+    },
+    {
+        "city_id": "117",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Dogiyai",
+        "postal_code": "98866"
+    },
+    {
+        "city_id": "150",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Intan Jaya",
+        "postal_code": "98771"
+    },
+    {
+        "city_id": "157",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Jayapura",
+        "postal_code": "99352"
+    },
+    {
+        "city_id": "158",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kota",
+        "city_name": "Jayapura",
+        "postal_code": "99114"
+    },
+    {
+        "city_id": "159",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Jayawijaya",
+        "postal_code": "99511"
+    },
+    {
+        "city_id": "180",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Keerom",
+        "postal_code": "99461"
+    },
+    {
+        "city_id": "193",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Kepulauan Yapen (Yapen Waropen)",
+        "postal_code": "98211"
+    },
+    {
+        "city_id": "231",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Lanny Jaya",
+        "postal_code": "99531"
+    },
+    {
+        "city_id": "263",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Mamberamo Raya",
+        "postal_code": "99381"
+    },
+    {
+        "city_id": "264",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Mamberamo Tengah",
+        "postal_code": "99553"
+    },
+    {
+        "city_id": "274",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Mappi",
+        "postal_code": "99853"
+    },
+    {
+        "city_id": "281",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Merauke",
+        "postal_code": "99613"
+    },
+    {
+        "city_id": "284",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Mimika",
+        "postal_code": "99962"
+    },
+    {
+        "city_id": "299",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Nabire",
+        "postal_code": "98816"
+    },
+    {
+        "city_id": "303",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Nduga",
+        "postal_code": "99541"
+    },
+    {
+        "city_id": "335",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Paniai",
+        "postal_code": "98765"
+    },
+    {
+        "city_id": "347",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Pegunungan Bintang",
+        "postal_code": "99573"
+    },
+    {
+        "city_id": "373",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Puncak",
+        "postal_code": "98981"
+    },
+    {
+        "city_id": "374",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Puncak Jaya",
+        "postal_code": "98979"
+    },
+    {
+        "city_id": "392",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Sarmi",
+        "postal_code": "99373"
+    },
+    {
+        "city_id": "443",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Supiori",
+        "postal_code": "98164"
+    },
+    {
+        "city_id": "484",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Tolikara",
+        "postal_code": "99411"
+    },
+    {
+        "city_id": "495",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Waropen",
+        "postal_code": "98269"
+    },
+    {
+        "city_id": "499",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Yahukimo",
+        "postal_code": "99041"
+    },
+    {
+        "city_id": "500",
+        "province_id": "24",
+        "province": "Papua",
+        "type": "Kabupaten",
+        "city_name": "Yalimo",
+        "postal_code": "99481"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "city_id": "73",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kota",
+        "city_name": "Bitung",
+        "postal_code": "95512"
+    },
+    {
+        "city_id": "81",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kabupaten",
+        "city_name": "Bolaang Mongondow (Bolmong)",
+        "postal_code": "95755"
+    },
+    {
+        "city_id": "82",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kabupaten",
+        "city_name": "Bolaang Mongondow Selatan",
+        "postal_code": "95774"
+    },
+    {
+        "city_id": "83",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kabupaten",
+        "city_name": "Bolaang Mongondow Timur",
+        "postal_code": "95783"
+    },
+    {
+        "city_id": "84",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kabupaten",
+        "city_name": "Bolaang Mongondow Utara",
+        "postal_code": "95765"
+    },
+    {
+        "city_id": "188",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kabupaten",
+        "city_name": "Kepulauan Sangihe",
+        "postal_code": "95819"
+    },
+    {
+        "city_id": "190",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kabupaten",
+        "city_name": "Kepulauan Siau Tagulandang Biaro (Sitaro)",
+        "postal_code": "95862"
+    },
+    {
+        "city_id": "192",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kabupaten",
+        "city_name": "Kepulauan Talaud",
+        "postal_code": "95885"
+    },
+    {
+        "city_id": "204",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kota",
+        "city_name": "Kotamobagu",
+        "postal_code": "95711"
+    },
+    {
+        "city_id": "267",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kota",
+        "city_name": "Manado",
+        "postal_code": "95247"
+    },
+    {
+        "city_id": "285",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kabupaten",
+        "city_name": "Minahasa",
+        "postal_code": "95614"
+    },
+    {
+        "city_id": "286",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kabupaten",
+        "city_name": "Minahasa Selatan",
+        "postal_code": "95914"
+    },
+    {
+        "city_id": "287",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kabupaten",
+        "city_name": "Minahasa Tenggara",
+        "postal_code": "95995"
+    },
+    {
+        "city_id": "288",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kabupaten",
+        "city_name": "Minahasa Utara",
+        "postal_code": "95316"
+    },
+    {
+        "city_id": "485",
+        "province_id": "31",
+        "province": "Sulawesi Utara",
+        "type": "Kota",
+        "city_name": "Tomohon",
+        "postal_code": "95416"
+    }
+]

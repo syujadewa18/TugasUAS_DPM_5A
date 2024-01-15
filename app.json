@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "Ashafa Laundry",
+    "slug": "com-ashafa-laundry-id",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/new/icon.png",
+    "splash": {
+      "image": "./assets/new/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#F6F0E4"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "facebookAppId": "817475785591648",
+    "facebookDisplayName": "Ashafa Laundry",
+    "facebookScheme": "fb817475785591648",
+    "facebookAutoLogAppEventsEnabled": false,
+    "facebookAdvertiserIDCollectionEnabled": false,
+    "ios": {
+      "bundleIdentifier": "com.ashafa.laundry.id",
+      "buildNumber": "2.1.6",
+      "config": {
+        "googleMapsApiKey": "AIzaSyAo3NvkuCpbGNwTC1kkJfjXsO17tvihXVQ",
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.494202122692-7vuuvglt9r77go7pkajp5qhn2rcdu1a1"
+        }
+      },
+      "usesAppleSignIn": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.ashafa.laundry.id",
+      "versionCode": 36,
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyDKwjOKwJzSKIDYbwZ394mvqk7eOnNWxD0",
+          "certificateHash": "62D93E9FEDD6D2B61E9EBBF6BE16728812F85EC7"
+        },
+        "googleMaps": {
+          "apiKey": "AIzaSyAo3NvkuCpbGNwTC1kkJfjXsO17tvihXVQ"
+        }
+      }
+    },
+    "plugins": [
+      "expo-tracking-transparency"
+    ]
+  }
+}

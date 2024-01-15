@@ -1,0 +1,58 @@
+[
+    {
+        "city_id": "48",
+        "province_id": "17",
+        "province": "Kepulauan Riau",
+        "type": "Kota",
+        "city_name": "Batam",
+        "postal_code": "29413"
+    },
+    {
+        "city_id": "71",
+        "province_id": "17",
+        "province": "Kepulauan Riau",
+        "type": "Kabupaten",
+        "city_name": "Bintan",
+        "postal_code": "29135"
+    },
+    {
+        "city_id": "172",
+        "province_id": "17",
+        "province": "Kepulauan Riau",
+        "type": "Kabupaten",
+        "city_name": "Karimun",
+        "postal_code": "29611"
+    },
+    {
+        "city_id": "184",
+        "province_id": "17",
+        "province": "Kepulauan Riau",
+        "type": "Kabupaten",
+        "city_name": "Kepulauan Anambas",
+        "postal_code": "29991"
+    },
+    {
+        "city_id": "237",
+        "province_id": "17",
+        "province": "Kepulauan Riau",
+        "type": "Kabupaten",
+        "city_name": "Lingga",
+        "postal_code": "29811"
+    },
+    {
+        "city_id": "302",
+        "province_id": "17",
+        "province": "Kepulauan Riau",
+        "type": "Kabupaten",
+        "city_name": "Natuna",
+        "postal_code": "29711"
+    },
+    {
+        "city_id": "462",
+        "province_id": "17",
+        "province": "Kepulauan Riau",
+        "type": "Kota",
+        "city_name": "Tanjung Pinang",
+        "postal_code": "29111"
+    }
+]

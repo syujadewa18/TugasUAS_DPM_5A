@@ -1,0 +1,82 @@
+[
+    {
+        "city_id": "62",
+        "province_id": "4",
+        "province": "Bengkulu",
+        "type": "Kota",
+        "city_name": "Bengkulu",
+        "postal_code": "38229"
+    },
+    {
+        "city_id": "63",
+        "province_id": "4",
+        "province": "Bengkulu",
+        "type": "Kabupaten",
+        "city_name": "Bengkulu Selatan",
+        "postal_code": "38519"
+    },
+    {
+        "city_id": "64",
+        "province_id": "4",
+        "province": "Bengkulu",
+        "type": "Kabupaten",
+        "city_name": "Bengkulu Tengah",
+        "postal_code": "38319"
+    },
+    {
+        "city_id": "65",
+        "province_id": "4",
+        "province": "Bengkulu",
+        "type": "Kabupaten",
+        "city_name": "Bengkulu Utara",
+        "postal_code": "38619"
+    },
+    {
+        "city_id": "175",
+        "province_id": "4",
+        "province": "Bengkulu",
+        "type": "Kabupaten",
+        "city_name": "Kaur",
+        "postal_code": "38911"
+    },
+    {
+        "city_id": "183",
+        "province_id": "4",
+        "province": "Bengkulu",
+        "type": "Kabupaten",
+        "city_name": "Kepahiang",
+        "postal_code": "39319"
+    },
+    {
+        "city_id": "233",
+        "province_id": "4",
+        "province": "Bengkulu",
+        "type": "Kabupaten",
+        "city_name": "Lebong",
+        "postal_code": "39264"
+    },
+    {
+        "city_id": "294",
+        "province_id": "4",
+        "province": "Bengkulu",
+        "type": "Kabupaten",
+        "city_name": "Muko Muko",
+        "postal_code": "38715"
+    },
+    {
+        "city_id": "379",
+        "province_id": "4",
+        "province": "Bengkulu",
+        "type": "Kabupaten",
+        "city_name": "Rejang Lebong",
+        "postal_code": "39112"
+    },
+    {
+        "city_id": "397",
+        "province_id": "4",
+        "province": "Bengkulu",
+        "type": "Kabupaten",
+        "city_name": "Seluma",
+        "postal_code": "38811"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "city_id": "27",
+        "province_id": "2",
+        "province": "Bangka Belitung",
+        "type": "Kabupaten",
+        "city_name": "Bangka",
+        "postal_code": "33212"
+    },
+    {
+        "city_id": "28",
+        "province_id": "2",
+        "province": "Bangka Belitung",
+        "type": "Kabupaten",
+        "city_name": "Bangka Barat",
+        "postal_code": "33315"
+    },
+    {
+        "city_id": "29",
+        "province_id": "2",
+        "province": "Bangka Belitung",
+        "type": "Kabupaten",
+        "city_name": "Bangka Selatan",
+        "postal_code": "33719"
+    },
+    {
+        "city_id": "30",
+        "province_id": "2",
+        "province": "Bangka Belitung",
+        "type": "Kabupaten",
+        "city_name": "Bangka Tengah",
+        "postal_code": "33613"
+    },
+    {
+        "city_id": "56",
+        "province_id": "2",
+        "province": "Bangka Belitung",
+        "type": "Kabupaten",
+        "city_name": "Belitung",
+        "postal_code": "33419"
+    },
+    {
+        "city_id": "57",
+        "province_id": "2",
+        "province": "Bangka Belitung",
+        "type": "Kabupaten",
+        "city_name": "Belitung Timur",
+        "postal_code": "33519"
+    },
+    {
+        "city_id": "334",
+        "province_id": "2",
+        "province": "Bangka Belitung",
+        "type": "Kota",
+        "city_name": "Pangkal Pinang",
+        "postal_code": "33115"
+    }
+]

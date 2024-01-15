@@ -1,0 +1,114 @@
+[
+    {
+        "city_id": "61",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kabupaten",
+        "city_name": "Bengkayang",
+        "postal_code": "79213"
+    },
+    {
+        "city_id": "168",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kabupaten",
+        "city_name": "Kapuas Hulu",
+        "postal_code": "78719"
+    },
+    {
+        "city_id": "176",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kabupaten",
+        "city_name": "Kayong Utara",
+        "postal_code": "78852"
+    },
+    {
+        "city_id": "195",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kabupaten",
+        "city_name": "Ketapang",
+        "postal_code": "78874"
+    },
+    {
+        "city_id": "208",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kabupaten",
+        "city_name": "Kubu Raya",
+        "postal_code": "78311"
+    },
+    {
+        "city_id": "228",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kabupaten",
+        "city_name": "Landak",
+        "postal_code": "78319"
+    },
+    {
+        "city_id": "279",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kabupaten",
+        "city_name": "Melawi",
+        "postal_code": "78619"
+    },
+    {
+        "city_id": "364",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kabupaten",
+        "city_name": "Pontianak",
+        "postal_code": "78971"
+    },
+    {
+        "city_id": "365",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kota",
+        "city_name": "Pontianak",
+        "postal_code": "78112"
+    },
+    {
+        "city_id": "388",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kabupaten",
+        "city_name": "Sambas",
+        "postal_code": "79453"
+    },
+    {
+        "city_id": "391",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kabupaten",
+        "city_name": "Sanggau",
+        "postal_code": "78557"
+    },
+    {
+        "city_id": "395",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kabupaten",
+        "city_name": "Sekadau",
+        "postal_code": "79583"
+    },
+    {
+        "city_id": "415",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kota",
+        "city_name": "Singkawang",
+        "postal_code": "79117"
+    },
+    {
+        "city_id": "417",
+        "province_id": "12",
+        "province": "Kalimantan Barat",
+        "type": "Kabupaten",
+        "city_name": "Sintang",
+        "postal_code": "78619"
+    }
+]

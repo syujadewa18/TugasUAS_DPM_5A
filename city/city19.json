@@ -1,0 +1,90 @@
+[
+    {
+        "city_id": "14",
+        "province_id": "19",
+        "province": "Maluku",
+        "type": "Kota",
+        "city_name": "Ambon",
+        "postal_code": "97222"
+    },
+    {
+        "city_id": "99",
+        "province_id": "19",
+        "province": "Maluku",
+        "type": "Kabupaten",
+        "city_name": "Buru",
+        "postal_code": "97371"
+    },
+    {
+        "city_id": "100",
+        "province_id": "19",
+        "province": "Maluku",
+        "type": "Kabupaten",
+        "city_name": "Buru Selatan",
+        "postal_code": "97351"
+    },
+    {
+        "city_id": "185",
+        "province_id": "19",
+        "province": "Maluku",
+        "type": "Kabupaten",
+        "city_name": "Kepulauan Aru",
+        "postal_code": "97681"
+    },
+    {
+        "city_id": "258",
+        "province_id": "19",
+        "province": "Maluku",
+        "type": "Kabupaten",
+        "city_name": "Maluku Barat Daya",
+        "postal_code": "97451"
+    },
+    {
+        "city_id": "259",
+        "province_id": "19",
+        "province": "Maluku",
+        "type": "Kabupaten",
+        "city_name": "Maluku Tengah",
+        "postal_code": "97513"
+    },
+    {
+        "city_id": "260",
+        "province_id": "19",
+        "province": "Maluku",
+        "type": "Kabupaten",
+        "city_name": "Maluku Tenggara",
+        "postal_code": "97651"
+    },
+    {
+        "city_id": "261",
+        "province_id": "19",
+        "province": "Maluku",
+        "type": "Kabupaten",
+        "city_name": "Maluku Tenggara Barat",
+        "postal_code": "97465"
+    },
+    {
+        "city_id": "400",
+        "province_id": "19",
+        "province": "Maluku",
+        "type": "Kabupaten",
+        "city_name": "Seram Bagian Barat",
+        "postal_code": "97561"
+    },
+    {
+        "city_id": "401",
+        "province_id": "19",
+        "province": "Maluku",
+        "type": "Kabupaten",
+        "city_name": "Seram Bagian Timur",
+        "postal_code": "97581"
+    },
+    {
+        "city_id": "488",
+        "province_id": "19",
+        "province": "Maluku",
+        "type": "Kota",
+        "city_name": "Tual",
+        "postal_code": "97612"
+    }
+]

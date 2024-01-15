@@ -1,0 +1,154 @@
+[
+    {
+        "city_id": "12",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kabupaten",
+        "city_name": "Agam",
+        "postal_code": "26411"
+    },
+    {
+        "city_id": "93",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kota",
+        "city_name": "Bukittinggi",
+        "postal_code": "26115"
+    },
+    {
+        "city_id": "116",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kabupaten",
+        "city_name": "Dharmasraya",
+        "postal_code": "27612"
+    },
+    {
+        "city_id": "186",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kabupaten",
+        "city_name": "Kepulauan Mentawai",
+        "postal_code": "25771"
+    },
+    {
+        "city_id": "236",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kabupaten",
+        "city_name": "Lima Puluh Koto/Kota",
+        "postal_code": "26671"
+    },
+    {
+        "city_id": "318",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kota",
+        "city_name": "Padang",
+        "postal_code": "25112"
+    },
+    {
+        "city_id": "321",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kota",
+        "city_name": "Padang Panjang",
+        "postal_code": "27122"
+    },
+    {
+        "city_id": "322",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kabupaten",
+        "city_name": "Padang Pariaman",
+        "postal_code": "25583"
+    },
+    {
+        "city_id": "337",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kota",
+        "city_name": "Pariaman",
+        "postal_code": "25511"
+    },
+    {
+        "city_id": "339",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kabupaten",
+        "city_name": "Pasaman",
+        "postal_code": "26318"
+    },
+    {
+        "city_id": "340",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kabupaten",
+        "city_name": "Pasaman Barat",
+        "postal_code": "26511"
+    },
+    {
+        "city_id": "345",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kota",
+        "city_name": "Payakumbuh",
+        "postal_code": "26213"
+    },
+    {
+        "city_id": "357",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kabupaten",
+        "city_name": "Pesisir Selatan",
+        "postal_code": "25611"
+    },
+    {
+        "city_id": "394",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kota",
+        "city_name": "Sawah Lunto",
+        "postal_code": "27416"
+    },
+    {
+        "city_id": "411",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kabupaten",
+        "city_name": "Sijunjung (Sawah Lunto Sijunjung)",
+        "postal_code": "27511"
+    },
+    {
+        "city_id": "420",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kabupaten",
+        "city_name": "Solok",
+        "postal_code": "27365"
+    },
+    {
+        "city_id": "421",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kota",
+        "city_name": "Solok",
+        "postal_code": "27315"
+    },
+    {
+        "city_id": "422",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kabupaten",
+        "city_name": "Solok Selatan",
+        "postal_code": "27779"
+    },
+    {
+        "city_id": "453",
+        "province_id": "32",
+        "province": "Sumatera Barat",
+        "type": "Kabupaten",
+        "city_name": "Tanah Datar",
+        "postal_code": "27211"
+    }
+]

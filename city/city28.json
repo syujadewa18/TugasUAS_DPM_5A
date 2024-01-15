@@ -1,0 +1,194 @@
+[
+    {
+        "city_id": "38",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Bantaeng",
+        "postal_code": "92411"
+    },
+    {
+        "city_id": "47",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Barru",
+        "postal_code": "90719"
+    },
+    {
+        "city_id": "87",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Bone",
+        "postal_code": "92713"
+    },
+    {
+        "city_id": "95",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Bulukumba",
+        "postal_code": "92511"
+    },
+    {
+        "city_id": "123",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Enrekang",
+        "postal_code": "91719"
+    },
+    {
+        "city_id": "132",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Gowa",
+        "postal_code": "92111"
+    },
+    {
+        "city_id": "162",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Jeneponto",
+        "postal_code": "92319"
+    },
+    {
+        "city_id": "244",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Luwu",
+        "postal_code": "91994"
+    },
+    {
+        "city_id": "245",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Luwu Timur",
+        "postal_code": "92981"
+    },
+    {
+        "city_id": "246",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Luwu Utara",
+        "postal_code": "92911"
+    },
+    {
+        "city_id": "254",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kota",
+        "city_name": "Makassar",
+        "postal_code": "90111"
+    },
+    {
+        "city_id": "275",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Maros",
+        "postal_code": "90511"
+    },
+    {
+        "city_id": "328",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kota",
+        "city_name": "Palopo",
+        "postal_code": "91911"
+    },
+    {
+        "city_id": "333",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Pangkajene Kepulauan",
+        "postal_code": "90611"
+    },
+    {
+        "city_id": "336",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kota",
+        "city_name": "Parepare",
+        "postal_code": "91123"
+    },
+    {
+        "city_id": "360",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Pinrang",
+        "postal_code": "91251"
+    },
+    {
+        "city_id": "396",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Selayar (Kepulauan Selayar)",
+        "postal_code": "92812"
+    },
+    {
+        "city_id": "408",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Sidenreng Rappang/Rapang",
+        "postal_code": "91613"
+    },
+    {
+        "city_id": "416",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Sinjai",
+        "postal_code": "92615"
+    },
+    {
+        "city_id": "423",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Soppeng",
+        "postal_code": "90812"
+    },
+    {
+        "city_id": "448",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Takalar",
+        "postal_code": "92212"
+    },
+    {
+        "city_id": "451",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Tana Toraja",
+        "postal_code": "91819"
+    },
+    {
+        "city_id": "486",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Toraja Utara",
+        "postal_code": "91831"
+    },
+    {
+        "city_id": "493",
+        "province_id": "28",
+        "province": "Sulawesi Selatan",
+        "type": "Kabupaten",
+        "city_name": "Wajo",
+        "postal_code": "90911"
+    }
+]

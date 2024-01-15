@@ -1,0 +1,74 @@
+[
+    {
+        "city_id": "138",
+        "province_id": "20",
+        "province": "Maluku Utara",
+        "type": "Kabupaten",
+        "city_name": "Halmahera Barat",
+        "postal_code": "97757"
+    },
+    {
+        "city_id": "139",
+        "province_id": "20",
+        "province": "Maluku Utara",
+        "type": "Kabupaten",
+        "city_name": "Halmahera Selatan",
+        "postal_code": "97911"
+    },
+    {
+        "city_id": "140",
+        "province_id": "20",
+        "province": "Maluku Utara",
+        "type": "Kabupaten",
+        "city_name": "Halmahera Tengah",
+        "postal_code": "97853"
+    },
+    {
+        "city_id": "141",
+        "province_id": "20",
+        "province": "Maluku Utara",
+        "type": "Kabupaten",
+        "city_name": "Halmahera Timur",
+        "postal_code": "97862"
+    },
+    {
+        "city_id": "142",
+        "province_id": "20",
+        "province": "Maluku Utara",
+        "type": "Kabupaten",
+        "city_name": "Halmahera Utara",
+        "postal_code": "97762"
+    },
+    {
+        "city_id": "191",
+        "province_id": "20",
+        "province": "Maluku Utara",
+        "type": "Kabupaten",
+        "city_name": "Kepulauan Sula",
+        "postal_code": "97995"
+    },
+    {
+        "city_id": "372",
+        "province_id": "20",
+        "province": "Maluku Utara",
+        "type": "Kabupaten",
+        "city_name": "Pulau Morotai",
+        "postal_code": "97771"
+    },
+    {
+        "city_id": "477",
+        "province_id": "20",
+        "province": "Maluku Utara",
+        "type": "Kota",
+        "city_name": "Ternate",
+        "postal_code": "97714"
+    },
+    {
+        "city_id": "478",
+        "province_id": "20",
+        "province": "Maluku Utara",
+        "type": "Kota",
+        "city_name": "Tidore Kepulauan",
+        "postal_code": "97815"
+    }
+]

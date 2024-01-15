@@ -1,0 +1,122 @@
+[
+    {
+        "city_id": "21",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kota",
+        "city_name": "Bandar Lampung",
+        "postal_code": "35139"
+    },
+    {
+        "city_id": "223",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kabupaten",
+        "city_name": "Lampung Barat",
+        "postal_code": "34814"
+    },
+    {
+        "city_id": "224",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kabupaten",
+        "city_name": "Lampung Selatan",
+        "postal_code": "35511"
+    },
+    {
+        "city_id": "225",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kabupaten",
+        "city_name": "Lampung Tengah",
+        "postal_code": "34212"
+    },
+    {
+        "city_id": "226",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kabupaten",
+        "city_name": "Lampung Timur",
+        "postal_code": "34319"
+    },
+    {
+        "city_id": "227",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kabupaten",
+        "city_name": "Lampung Utara",
+        "postal_code": "34516"
+    },
+    {
+        "city_id": "282",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kabupaten",
+        "city_name": "Mesuji",
+        "postal_code": "34911"
+    },
+    {
+        "city_id": "283",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kota",
+        "city_name": "Metro",
+        "postal_code": "34111"
+    },
+    {
+        "city_id": "355",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kabupaten",
+        "city_name": "Pesawaran",
+        "postal_code": "35312"
+    },
+    {
+        "city_id": "356",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kabupaten",
+        "city_name": "Pesisir Barat",
+        "postal_code": "35974"
+    },
+    {
+        "city_id": "368",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kabupaten",
+        "city_name": "Pringsewu",
+        "postal_code": "35719"
+    },
+    {
+        "city_id": "458",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kabupaten",
+        "city_name": "Tanggamus",
+        "postal_code": "35619"
+    },
+    {
+        "city_id": "490",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kabupaten",
+        "city_name": "Tulang Bawang",
+        "postal_code": "34613"
+    },
+    {
+        "city_id": "491",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kabupaten",
+        "city_name": "Tulang Bawang Barat",
+        "postal_code": "34419"
+    },
+    {
+        "city_id": "496",
+        "province_id": "18",
+        "province": "Lampung",
+        "type": "Kabupaten",
+        "city_name": "Way Kanan",
+        "postal_code": "34711"
+    }
+]

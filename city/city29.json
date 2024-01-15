@@ -1,0 +1,90 @@
+[
+    {
+        "city_id": "25",
+        "province_id": "29",
+        "province": "Sulawesi Tengah",
+        "type": "Kabupaten",
+        "city_name": "Banggai",
+        "postal_code": "94711"
+    },
+    {
+        "city_id": "26",
+        "province_id": "29",
+        "province": "Sulawesi Tengah",
+        "type": "Kabupaten",
+        "city_name": "Banggai Kepulauan",
+        "postal_code": "94881"
+    },
+    {
+        "city_id": "98",
+        "province_id": "29",
+        "province": "Sulawesi Tengah",
+        "type": "Kabupaten",
+        "city_name": "Buol",
+        "postal_code": "94564"
+    },
+    {
+        "city_id": "119",
+        "province_id": "29",
+        "province": "Sulawesi Tengah",
+        "type": "Kabupaten",
+        "city_name": "Donggala",
+        "postal_code": "94341"
+    },
+    {
+        "city_id": "291",
+        "province_id": "29",
+        "province": "Sulawesi Tengah",
+        "type": "Kabupaten",
+        "city_name": "Morowali",
+        "postal_code": "94911"
+    },
+    {
+        "city_id": "329",
+        "province_id": "29",
+        "province": "Sulawesi Tengah",
+        "type": "Kota",
+        "city_name": "Palu",
+        "postal_code": "94111"
+    },
+    {
+        "city_id": "338",
+        "province_id": "29",
+        "province": "Sulawesi Tengah",
+        "type": "Kabupaten",
+        "city_name": "Parigi Moutong",
+        "postal_code": "94411"
+    },
+    {
+        "city_id": "366",
+        "province_id": "29",
+        "province": "Sulawesi Tengah",
+        "type": "Kabupaten",
+        "city_name": "Poso",
+        "postal_code": "94615"
+    },
+    {
+        "city_id": "410",
+        "province_id": "29",
+        "province": "Sulawesi Tengah",
+        "type": "Kabupaten",
+        "city_name": "Sigi",
+        "postal_code": "94364"
+    },
+    {
+        "city_id": "482",
+        "province_id": "29",
+        "province": "Sulawesi Tengah",
+        "type": "Kabupaten",
+        "city_name": "Tojo Una-Una",
+        "postal_code": "94683"
+    },
+    {
+        "city_id": "483",
+        "province_id": "29",
+        "province": "Sulawesi Tengah",
+        "type": "Kabupaten",
+        "city_name": "Toli-Toli",
+        "postal_code": "94542"
+    }
+]

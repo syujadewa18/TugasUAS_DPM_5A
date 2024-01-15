@@ -1,0 +1,42 @@
+[
+    {
+        "city_id": "253",
+        "province_id": "27",
+        "province": "Sulawesi Barat",
+        "type": "Kabupaten",
+        "city_name": "Majene",
+        "postal_code": "91411"
+    },
+    {
+        "city_id": "262",
+        "province_id": "27",
+        "province": "Sulawesi Barat",
+        "type": "Kabupaten",
+        "city_name": "Mamasa",
+        "postal_code": "91362"
+    },
+    {
+        "city_id": "265",
+        "province_id": "27",
+        "province": "Sulawesi Barat",
+        "type": "Kabupaten",
+        "city_name": "Mamuju",
+        "postal_code": "91519"
+    },
+    {
+        "city_id": "266",
+        "province_id": "27",
+        "province": "Sulawesi Barat",
+        "type": "Kabupaten",
+        "city_name": "Mamuju Utara",
+        "postal_code": "91571"
+    },
+    {
+        "city_id": "362",
+        "province_id": "27",
+        "province": "Sulawesi Barat",
+        "type": "Kabupaten",
+        "city_name": "Polewali Mandar",
+        "postal_code": "91311"
+    }
+]

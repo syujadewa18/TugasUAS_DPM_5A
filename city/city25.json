@@ -1,0 +1,106 @@
+[
+    {
+        "city_id": "124",
+        "province_id": "25",
+        "province": "Papua Barat",
+        "type": "Kabupaten",
+        "city_name": "Fakfak",
+        "postal_code": "98651"
+    },
+    {
+        "city_id": "165",
+        "province_id": "25",
+        "province": "Papua Barat",
+        "type": "Kabupaten",
+        "city_name": "Kaimana",
+        "postal_code": "98671"
+    },
+    {
+        "city_id": "272",
+        "province_id": "25",
+        "province": "Papua Barat",
+        "type": "Kabupaten",
+        "city_name": "Manokwari",
+        "postal_code": "98311"
+    },
+    {
+        "city_id": "273",
+        "province_id": "25",
+        "province": "Papua Barat",
+        "type": "Kabupaten",
+        "city_name": "Manokwari Selatan",
+        "postal_code": "98355"
+    },
+    {
+        "city_id": "277",
+        "province_id": "25",
+        "province": "Papua Barat",
+        "type": "Kabupaten",
+        "city_name": "Maybrat",
+        "postal_code": "98051"
+    },
+    {
+        "city_id": "346",
+        "province_id": "25",
+        "province": "Papua Barat",
+        "type": "Kabupaten",
+        "city_name": "Pegunungan Arfak",
+        "postal_code": "98354"
+    },
+    {
+        "city_id": "378",
+        "province_id": "25",
+        "province": "Papua Barat",
+        "type": "Kabupaten",
+        "city_name": "Raja Ampat",
+        "postal_code": "98489"
+    },
+    {
+        "city_id": "424",
+        "province_id": "25",
+        "province": "Papua Barat",
+        "type": "Kabupaten",
+        "city_name": "Sorong",
+        "postal_code": "98431"
+    },
+    {
+        "city_id": "425",
+        "province_id": "25",
+        "province": "Papua Barat",
+        "type": "Kota",
+        "city_name": "Sorong",
+        "postal_code": "98411"
+    },
+    {
+        "city_id": "426",
+        "province_id": "25",
+        "province": "Papua Barat",
+        "type": "Kabupaten",
+        "city_name": "Sorong Selatan",
+        "postal_code": "98454"
+    },
+    {
+        "city_id": "449",
+        "province_id": "25",
+        "province": "Papua Barat",
+        "type": "Kabupaten",
+        "city_name": "Tambrauw",
+        "postal_code": "98475"
+    },
+    {
+        "city_id": "474",
+        "province_id": "25",
+        "province": "Papua Barat",
+        "type": "Kabupaten",
+        "city_name": "Teluk Bintuni",
+        "postal_code": "98551"
+    },
+    {
+        "city_id": "475",
+        "province_id": "25",
+        "province": "Papua Barat",
+        "type": "Kabupaten",
+        "city_name": "Teluk Wondama",
+        "postal_code": "98591"
+    }
+]

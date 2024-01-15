@@ -1,0 +1,90 @@
+[
+    {
+        "city_id": "50",
+        "province_id": "8",
+        "province": "Jambi",
+        "type": "Kabupaten",
+        "city_name": "Batang Hari",
+        "postal_code": "36613"
+    },
+    {
+        "city_id": "97",
+        "province_id": "8",
+        "province": "Jambi",
+        "type": "Kabupaten",
+        "city_name": "Bungo",
+        "postal_code": "37216"
+    },
+    {
+        "city_id": "156",
+        "province_id": "8",
+        "province": "Jambi",
+        "type": "Kota",
+        "city_name": "Jambi",
+        "postal_code": "36111"
+    },
+    {
+        "city_id": "194",
+        "province_id": "8",
+        "province": "Jambi",
+        "type": "Kabupaten",
+        "city_name": "Kerinci",
+        "postal_code": "37167"
+    },
+    {
+        "city_id": "280",
+        "province_id": "8",
+        "province": "Jambi",
+        "type": "Kabupaten",
+        "city_name": "Merangin",
+        "postal_code": "37319"
+    },
+    {
+        "city_id": "293",
+        "province_id": "8",
+        "province": "Jambi",
+        "type": "Kabupaten",
+        "city_name": "Muaro Jambi",
+        "postal_code": "36311"
+    },
+    {
+        "city_id": "393",
+        "province_id": "8",
+        "province": "Jambi",
+        "type": "Kabupaten",
+        "city_name": "Sarolangun",
+        "postal_code": "37419"
+    },
+    {
+        "city_id": "442",
+        "province_id": "8",
+        "province": "Jambi",
+        "type": "Kota",
+        "city_name": "Sungaipenuh",
+        "postal_code": "37113"
+    },
+    {
+        "city_id": "460",
+        "province_id": "8",
+        "province": "Jambi",
+        "type": "Kabupaten",
+        "city_name": "Tanjung Jabung Barat",
+        "postal_code": "36513"
+    },
+    {
+        "city_id": "461",
+        "province_id": "8",
+        "province": "Jambi",
+        "type": "Kabupaten",
+        "city_name": "Tanjung Jabung Timur",
+        "postal_code": "36719"
+    },
+    {
+        "city_id": "471",
+        "province_id": "8",
+        "province": "Jambi",
+        "type": "Kabupaten",
+        "city_name": "Tebo",
+        "postal_code": "37519"
+    }
+]
